@@ -1,0 +1,7 @@
+C:\Users\Pichau\source\repos\TheByteBank\TheByteBank\obj\Debug\TheByteBank.csprojAssemblyReference.cache
+C:\Users\Pichau\source\repos\TheByteBank\TheByteBank\obj\Debug\TheByteBank.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\TheByteBank\TheByteBank\bin\Debug\TheByteBank.exe.config
+C:\Users\Pichau\source\repos\TheByteBank\TheByteBank\bin\Debug\TheByteBank.exe
+C:\Users\Pichau\source\repos\TheByteBank\TheByteBank\bin\Debug\TheByteBank.pdb
+C:\Users\Pichau\source\repos\TheByteBank\TheByteBank\obj\Debug\TheByteBank.exe
+C:\Users\Pichau\source\repos\TheByteBank\TheByteBank\obj\Debug\TheByteBank.pdb
